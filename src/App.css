@@ -1,0 +1,36 @@
+body {
+  background: rgb(23, 230, 61);
+}
+
+.judul {
+  text-align: center;
+
+}
+
+.jumbo {
+  width: 70%;
+  height: 300px;
+  background: gray;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 20px;
+}
+
+.form {
+  margin: auto;
+  width: 400px;
+  height: 100px;
+}
+
+input {
+  padding: 5px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+button {
+  padding: 10px;
+  background: lightgreen;
+  border-radius: 10px;
+  margin: auto;
+}
